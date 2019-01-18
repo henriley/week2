@@ -1,0 +1,18 @@
+body{
+    background: red;
+    color: pink;
+    size: 150%;
+    margin: 5%;
+}
+
+/* a:focus{
+    border: 1px 
+} */
+
+nav a{
+    color: black;
+}
+
+p{
+    font-family: Arial;
+}
